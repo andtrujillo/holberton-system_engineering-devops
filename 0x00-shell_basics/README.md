@@ -5,4 +5,4 @@
 1. **Whats in there?**
    * Displays the contents list of your current directory.
 2. **There is no place like home.**
-   *Changes working directory to the user's home directory.
+   * Changes working directory to the user's home directory.
