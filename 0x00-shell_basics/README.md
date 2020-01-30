@@ -36,3 +36,5 @@
    * Created a script that removes temporary files from Emacs.
 17. **Tree**
    * Script that creates the directories welcome/to/holberton in the current directory
+18. **Life is a series of commas, not periods**
+   * Listing files and directories of current working directory, seperated by commas.
