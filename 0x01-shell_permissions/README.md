@@ -21,7 +21,7 @@
 | *15-symbolic_link_permissions*  | Script that changes the owner and the group owner of file _hello to betty and holberton
 | *16-if_only* | Changes the owner of the file hello to betty only if Guillaume is the files owner
 | *100-Star_Wars* | Script to play the StarWars IV episode in current terminal
-
+| *101-man_holberton* | Creates a man page from troff formatting which is industry standard in Unix since the late 1970's
 
 ### System Information
 ---
