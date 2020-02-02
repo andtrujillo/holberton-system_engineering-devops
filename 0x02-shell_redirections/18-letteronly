@@ -1,2 +1,3 @@
 #!/bin/bash
-cat /etc/ssh/sshd_config | grep -E [Aa-Zz]
+grep ^[[:alpha:]] /etc/ssh/ssh_config
+
