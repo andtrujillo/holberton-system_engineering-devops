@@ -1,6 +1,7 @@
 # Shell Variable Expansions Project
 ---
 | Script | Description |
+| --- | --- |
 | 0-alias | Creates an alias to `rm *` |
 | 1-hello_you | Prints user and where user is the current linux user |
 | 2-path | Appended /action to the PATH 
@@ -16,6 +17,7 @@
 | 12-combinations | Prints all possible combinations of two letters, except oo |
 | 13-print_float | Prints a number with two decimal places |
 | 14-decimal_to_hexadecimal | Converts a number from base 10 to base 16 |
+
 
 ### System Information
 ```uname -a```
