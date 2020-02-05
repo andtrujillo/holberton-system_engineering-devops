@@ -1,2 +1,3 @@
 #!/bin/bash 
-awk 'NR %2==1' 
+ nl | sed '0~2d'| cut -c8-
+
